@@ -1,4 +1,4 @@
-; This script is to automate the keys and clicks to exit Apex Legeds as fast as possible and start searching for another match.
+; This script is to automate the keys and clicks to exit Apex Legends as fast as possible and start searching for another match ASAP.
 
 #NoEnv  ; Recommended for performance and compatibility with future AutoHotkey releases.
 #Warn  ; Enable warnings to assist with detecting common errors.
