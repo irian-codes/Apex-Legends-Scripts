@@ -52,7 +52,10 @@ isActive := false
 return
 
 ManualAbort:
-^!Ins::
+^!Ins:: ; Press CTRL + ALT + INS to manually terminate the script.
+KeyWait, Control
+KeyWait, Alt
+KeyWait, Ins
 SetTimer, Timeout, Off ; Stop the timer here also just in case.
 isActive := false
 exit
